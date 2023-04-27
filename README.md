@@ -10,5 +10,3 @@ With this Nitro Generator you can :
 1.Nitro Snipper
 
 2.Nitro Generator Super fast with a checker (only 5 minute to get a nitro)
-
-3. Giftcard Generator
